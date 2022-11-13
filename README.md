@@ -27,7 +27,7 @@ joined the freeelancing in 2021 on upwork and worked with local client
 
 
 ## Progression 
-<table><tr><td valign="top" width="50%">
+<tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [SARL SAFIOR Product Manager](https://github.com/hichembtb/product_manager)  
   
@@ -39,7 +39,7 @@ joined the freeelancing in 2021 on upwork and worked with local client
 
 
 
-</td></tr></table>  
+</td></tr> 
 
 <br/>  
 
