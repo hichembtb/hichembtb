@@ -18,7 +18,7 @@
 
 
 ### Career  
-I’m a mobile app developer with 3 years experience .with the framework Flutter .
+I’m a mobile app developer with 5 years experience .with the framework Flutter .
 
 joined the freeelancing in 2021 on upwork and worked with local client   
   
