@@ -63,16 +63,19 @@ joined the freeelancing in 2021 on upwork and worked with local client
 <br/>  
 
 
-## Github Stats  
-<tr><td valign="top" width="50%">
+## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=hichembtb&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=hichembtb&show_icons=true&count_private=true&hide_border=true" width="100%" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hichembtb&hide_border=true&layout=compact" width="100%" />
+    </td>
+  </tr>
+</table>
 
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hichembtb&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr>
 
 <br/>  
 
